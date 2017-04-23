@@ -1,0 +1,9 @@
+/*
+Theme Name: wordpress-theme
+Author: Etienne Martin
+Author URI: http://etiennemartin.ca/
+Version: 1.0
+Text Domain: wordpress-theme
+*/
+
+@import 'build/build.css';
